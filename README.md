@@ -26,9 +26,9 @@ isTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything(42)
 isTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything('God')
 // false
 
-includesTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything('Is 42 the Answer to the Ultimate Question of Life, the Universe, and Everything?')
+includesTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything('Is 42 the answer?')
 // true
 
-includesTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything('Is God the Answer to the Ultimate Question of Life, the Universe, and Everything?')
+includesTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything('Is God the answer?')
 // false
 ```
