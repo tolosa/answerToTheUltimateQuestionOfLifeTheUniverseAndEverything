@@ -1,0 +1,2 @@
+# answerToTheUltimateQuestionOfLifeTheUniverseAndEverything
+Npm learning package
