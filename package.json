@@ -1,0 +1,19 @@
+{
+  "name": "answertotheultimatequestionoflifetheuniverseandeverything",
+  "version": "1.0.0",
+  "description": "The Answer to the Ultimate Question of Life, the Universe, and Everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolosa/answerToTheUltimateQuestionOfLifeTheUniverseAndEverything.git"
+  },
+  "author": "Leonardo Tolosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolosa/answerToTheUltimateQuestionOfLifeTheUniverseAndEverything/issues"
+  },
+  "homepage": "https://github.com/tolosa/answerToTheUltimateQuestionOfLifeTheUniverseAndEverything#readme"
+}
